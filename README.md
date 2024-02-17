@@ -62,15 +62,15 @@ python train.py
 
 ![PASCALVOC20122](https://github.com/Donglin223/GLIE/blob/master/images/PASCALVOC20122.png)
 
-![widerPerson]([assets/widerPerson.png](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png))
+![widerPerson](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png)
 
-![widerPerson]([assets/widerPerson.png](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson.png))
+![widerPerson](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson.png)
 
 ![Cityperson](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png)
 
 ![Cityperson](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png)
 
-![crowdhuman]([assets/crowdhuman.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png)https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png)
+![crowdhuman](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png)
 
-![crowdhuman]([assets/crowdhuman.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png)https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png)
+![crowdhuman](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png)
 
