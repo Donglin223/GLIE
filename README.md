@@ -59,7 +59,7 @@ python train.py
 **PASCALVOC**
 
 
-![PASCALVOC20122](assets/PASCALVOC20122.png)
+![PASCALVOC20122](https://github.com/Donglin223/GLIE/blob/master/images/PASCAL VOC2012-data.png)
 
 **widerPerson**
 
