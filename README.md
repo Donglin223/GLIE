@@ -51,7 +51,7 @@ python train.py
   + visualize the heat map:
 
     ```
-  python heatmap.py
+    python heatmap.py
     ```
 
 ## Results
