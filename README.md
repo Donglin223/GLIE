@@ -62,7 +62,7 @@ python train.py
 
 ![PASCALVOC](https://github.com/Donglin223/GLIE/blob/master/images/PASCALVOC2012.png)
 
-**widerPerson**
+**WiderPerson**
 
 
 ![assets/widerPerson.png](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png)
@@ -75,7 +75,7 @@ python train.py
 ![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png)
 
 
-**crowdhuman**
+**Crowdhuman**
 
 
 ![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png)
@@ -83,6 +83,6 @@ python train.py
 ![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png)
 
 
-**heatmap**
+**Heatmap**
 
 ![heatmap](https://github.com/Donglin223/GLIE/blob/master/images/heatmap.png)
