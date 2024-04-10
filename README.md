@@ -58,35 +58,28 @@ python train.py
 
 **PASCALVOC**
 
-![https://github.com/Donglin223/GLIE/blob/master/images/PASCAL VOC2012-data.png](https://github.com/Donglin223/GLIE/blob/master/images/PASCAL%20VOC2012-data.png))
+![https://github.com/Donglin223/GLIE/blob/master/images/PASCAL VOC2012-data.png](https://github.com/Donglin223/GLIE/blob/master/images/PASCAL%20VOC2012-data.png)
+
+![PASCALVOC](https://github.com/Donglin223/GLIE/blob/master/images/PASCALVOC2012.png)
 
 **widerPerson**
 
 
-![widerPerson](assets/widerPerson.png)
+![assets/widerPerson.png](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png)
 
+![https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/widerPerson.png)
 **Cityperson**
 
+![assets/crowdhuman.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png)
 
-![Cityperson](assets/Cityperson.png)
+!([https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png)
+
 
 **crowdhuman**
 
 
-![crowdhuman](assets/crowdhuman.png)
+![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png)
 
-voc_data:https://github.com/Donglin223/GLIE/blob/master/images/PASCAL%20VOC2012-data.png
+![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png](https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png)
 
-voc:https://github.com/Donglin223/GLIE/blob/master/images/PASCALVOC20122.png
 
-widerperson_data:https://github.com/Donglin223/GLIE/blob/master/images/widerPerson-data.png
-
-widerperson:https://github.com/Donglin223/GLIE/blob/master/images/widerPerson.png
-
-cityperson_data:https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png
-
-cityperson:https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png
-
-crowdhuman_data:https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman-data.png
-
-crowdhuman:https://github.com/Donglin223/GLIE/blob/master/images/crowdhuman.png
