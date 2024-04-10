@@ -72,7 +72,7 @@ python train.py
 
 ![assets/crowdhuman.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png)
 
-!([https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png)
+![https://github.com/Donglin223/GLIE/blob/master/images/Cityperson-data.png](https://github.com/Donglin223/GLIE/blob/master/images/Cityperson.png)
 
 
 **crowdhuman**
